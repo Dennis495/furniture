@@ -1,19 +1,19 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/footcap)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/footcap?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/footcap?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/woodex)
+  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/woodex?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/woodex?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/BsmRYjW4csw?style=social)](https://youtu.be/BsmRYjW4csw)
+  [![YouTube Video Views](https://img.shields.io/youtube/views/NK8Cif0dAoM?style=social)](https://youtu.be/NK8Cif0dAoM)
 
   <br />
   <br />
 
-  <h2 align="center">Footcap - eCommerce website</h2>
+  <h2 align="center">Woodex - Furniture eCommerce Website</h2>
 
-  Footcap is fully responsive ecommerce website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  Woodex is a fully responsive furniture ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/footcap/"><strong>➥ Live Demo</strong></a>
+  <a href="https://codewithsadee.github.io/woodex/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Footcap Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Woodex Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -31,18 +31,18 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Footcap** locally, run this command on your git bash:
+To run **Woodex** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/footcap.git
+sudo git clone https://github.com/codewithsadee/woodex.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/footcap.git
+git clone https://github.com/codewithsadee/woodex.git
 ```
 
 ### Contact
